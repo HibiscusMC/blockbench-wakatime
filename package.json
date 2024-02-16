@@ -1,0 +1,11 @@
+{
+  "name": "blockbench-wakatime",
+  "version": "1.0.0",
+  "description": "The Blockbench plugin for productivity metrics, goals, leaderboards, and automatic time tracking.",
+  "main": "wakatime.js",
+  "author": "yusshu",
+  "license": "MIT",
+  "devDependencies": {
+    "blockbench-types": "^4.9.0"
+  }
+}
